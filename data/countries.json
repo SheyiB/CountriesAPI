@@ -1,0 +1,462 @@
+[
+    {
+        "name": "Nigeria",
+        "capital": "Abuja",
+        "states": [
+            {
+                "name": "Lagos",
+                "capital": "Ikeja",
+                "cities": [
+                    {
+                        "name": "Ikeja",
+                        "population": 1000000
+                    },
+                    {
+                        "name": "Ikorodu",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Epe",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Badagry",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Lekki",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Ajah",
+                        "population": 500000
+                    }
+                ]
+            },
+            {
+                "name": "Ogun",
+                "capital": "Abeokuta",
+                "cities": [
+                    {
+                        "name": "Abeokuta",
+                        "population": 1000000
+                    },
+                    {
+                        "name": "Ijebu-Ode",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Sagamu",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Ifo",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Ota",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Ijebu-Igbo",
+                        "population": 500000
+                    }
+                ]
+            },
+            {
+                "name": "Oyo",
+                "capital": "Ibadan",
+                "cities": [
+                    {
+                        "name": "Ibadan",
+                        "population": 1000000
+                    },
+                    {
+                        "name": "Ogbomosho",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Iseyin",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Oyo",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Ogbomosho",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Iseyin",
+                        "population": 500000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ghana",
+        "capital": "Accra",
+        "states": [
+            {
+                "name": "Greater Accra",
+                "capital": "Accra",
+                "cities": [
+                    {
+                        "name": "Accra",
+                        "population": 2000000
+                    },
+                    {
+                        "name": "Tema",
+                        "population": 800000
+                    },
+                    {
+                        "name": "Ashaiman",
+                        "population": 600000
+                    },
+                    {
+                        "name": "Madina",
+                        "population": 500000
+                    }
+                ]
+            },
+            {
+                "name": "Ashanti",
+                "capital": "Kumasi",
+                "cities": [
+                    {
+                        "name": "Kumasi",
+                        "population": 1500000
+                    },
+                    {
+                        "name": "Obuasi",
+                        "population": 600000
+                    },
+                    {
+                        "name": "Sekondi-Takoradi",
+                        "population": 500000
+                    }
+                ]
+            },
+            {
+                "name": "Western",
+                "capital": "Sekondi",
+                "cities": [
+                    {
+                        "name": "Sekondi",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Takoradi",
+                        "population": 400000
+                    },
+                    {
+                        "name": "Elmina",
+                        "population": 300000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kenya",
+        "capital": "Nairobi",
+        "states": [
+            {
+                "name": "Nairobi",
+                "capital": "Nairobi",
+                "cities": [
+                    {
+                        "name": "Westlands",
+                        "population": 700000
+                    },
+                    {
+                        "name": "Lang'ata",
+                        "population": 600000
+                    },
+                    {
+                        "name": "Embakasi",
+                        "population": 800000
+                    }
+                ]
+            },
+            {
+                "name": "Mombasa",
+                "capital": "Mombasa",
+                "cities": [
+                    {
+                        "name": "Mvita",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Nyali",
+                        "population": 400000
+                    },
+                    {
+                        "name": "Kisauni",
+                        "population": 300000
+                    }
+                ]
+            },
+            {
+                "name": "Nakuru",
+                "capital": "Nakuru",
+                "cities": [
+                    {
+                        "name": "Nakuru East",
+                        "population": 400000
+                    },
+                    {
+                        "name": "Nakuru West",
+                        "population": 350000
+                    },
+                    {
+                        "name": "Nakuru North",
+                        "population": 300000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "United States",
+        "capital": "Washington, D.C.",
+        "states": [
+            {
+                "name": "California",
+                "capital": "Sacramento",
+                "cities": [
+                    {
+                        "name": "Los Angeles",
+                        "population": 4000000
+                    },
+                    {
+                        "name": "San Francisco",
+                        "population": 800000
+                    },
+                    {
+                        "name": "San Diego",
+                        "population": 700000
+                    }
+                ]
+            },
+            {
+                "name": "Texas",
+                "capital": "Austin",
+                "cities": [
+                    {
+                        "name": "Houston",
+                        "population": 3000000
+                    },
+                    {
+                        "name": "Dallas",
+                        "population": 1200000
+                    },
+                    {
+                        "name": "Austin",
+                        "population": 900000
+                    }
+                ]
+            },
+            {
+                "name": "New York",
+                "capital": "Albany",
+                "cities": [
+                    {
+                        "name": "New York City",
+                        "population": 8500000
+                    },
+                    {
+                        "name": "Buffalo",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Rochester",
+                        "population": 400000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Germany",
+        "capital": "Berlin",
+        "states": [
+            {
+                "name": "Bavaria",
+                "capital": "Munich",
+                "cities": [
+                    {
+                        "name": "Munich",
+                        "population": 1500000
+                    },
+                    {
+                        "name": "Nuremberg",
+                        "population": 500000
+                    },
+                    {
+                        "name": "Augsburg",
+                        "population": 400000
+                    }
+                ]
+            },
+            {
+                "name": "North Rhine-Westphalia",
+                "capital": "Dusseldorf",
+                "cities": [
+                    {
+                        "name": "Cologne",
+                        "population": 1000000
+                    },
+                    {
+                        "name": "Dusseldorf",
+                        "population": 600000
+                    },
+                    {
+                        "name": "Dortmund",
+                        "population": 500000
+                    }
+                ]
+            },
+            {
+                "name": "Baden-Wurttemberg",
+                "capital": "Stuttgart",
+                "cities": [
+                    {
+                        "name": "Stuttgart",
+                        "population": 800000
+                    },
+                    {
+                        "name": "Karlsruhe",
+                        "population": 300000
+                    },
+                    {
+                        "name": "Freiburg",
+                        "population": 200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Australia",
+        "capital": "Canberra",
+        "states": [
+            {
+                "name": "Australian Capital Territory",
+                "capital": "Canberra",
+                "cities": [
+                    {
+                        "name": "Canberra",
+                        "population": 400000
+                    },
+                    {
+                        "name": "Queanbeyan",
+                        "population": 50000
+                    },
+                    {
+                        "name": "Belconnen",
+                        "population": 150000
+                    }
+                ]
+            },
+            {
+                "name": "New South Wales",
+                "capital": "Sydney",
+                "cities": [
+                    {
+                        "name": "Sydney",
+                        "population": 5000000
+                    },
+                    {
+                        "name": "Newcastle",
+                        "population": 600000
+                    },
+                    {
+                        "name": "Wollongong",
+                        "population": 300000
+                    }
+                ]
+            },
+            {
+                "name": "Victoria",
+                "capital": "Melbourne",
+                "cities": [
+                    {
+                        "name": "Melbourne",
+                        "population": 4500000
+                    },
+                    {
+                        "name": "Geelong",
+                        "population": 300000
+                    },
+                    {
+                        "name": "Ballarat",
+                        "population": 200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "China",
+        "capital": "Beijing",
+        "states": [
+            {
+                "name": "Guangdong",
+                "capital": "Guangzhou",
+                "cities": [
+                    {
+                        "name": "Guangzhou",
+                        "population": 14000000
+                    },
+                    {
+                        "name": "Shenzhen",
+                        "population": 12000000
+                    },
+                    {
+                        "name": "Dongguan",
+                        "population": 8000000
+                    }
+                ]
+            },
+            {
+                "name": "Jiangsu",
+                "capital": "Nanjing",
+                "cities": [
+                    {
+                        "name": "Nanjing",
+                        "population": 9000000
+                    },
+                    {
+                        "name": "Suzhou",
+                        "population": 7000000
+                    },
+                    {
+                        "name": "Wuxi",
+                        "population": 6000000
+                    }
+                ]
+            },
+            {
+                "name": "Shandong",
+                "capital": "Jinan",
+                "cities": [
+                    {
+                        "name": "Jinan",
+                        "population": 6000000
+                    },
+                    {
+                        "name": "Qingdao",
+                        "population": 5000000
+                    },
+                    {
+                        "name": "Yantai",
+                        "population": 3000000
+                    }
+                ]
+            }
+        ]
+    }
+]
